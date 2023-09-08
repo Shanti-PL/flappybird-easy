@@ -12,10 +12,10 @@ import java.nio.file.Paths;
 
 
 /**
- * Skeleton Code for SWEN20003 Project 2, Semester 2, 2021
+ * A small flappybird game which has two levels
  * <p>
  *
- * @author: Yaxuan Huang
+ * @author: Junyi(Shanti) Fan
  */
 public class ShadowFlap extends AbstractGame {
 
